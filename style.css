@@ -1,0 +1,16 @@
+.card {
+    display: inline-block;
+    vertical-align: top;
+    margin:20px
+}
+
+.card img {
+    max-height: 300px;
+    object-fit: cover;
+}
+
+
+ul {
+	list-style: none;
+    margin-right: 30px;
+}
